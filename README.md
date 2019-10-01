@@ -1,2 +1,2 @@
 # fabians-wunderkiste
-Workshops brauchen Essen
+Workshops brauchen Essen und Trinken
