@@ -1,2 +1,2 @@
 # fabians-wunderkiste
-Workshops brauchen Käse
+Workshops brauchen Essen
